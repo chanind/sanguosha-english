@@ -1,0 +1,31 @@
+.navgrp{
+	position: absolute;
+    top: 0.4em;
+	right:10px;
+	margin:0;
+}
+.footer{
+	padding:15px 0 !important;
+}
+.card_image{
+	background:#555;
+}
+.subpage .card_image{
+	margin:10px;
+	padding:10px;
+	float:left;
+	width:140px;
+	height:200px;
+}
+.cards_page .card_image{
+	margin:5px;
+	padding:5px;
+	width:70px;
+	height:100px;
+}
+.abilities {
+	margin-left:200px;
+}
+.cleared{
+	clear:both;
+}
